@@ -1,2 +1,3 @@
-# my project
-this is my awesome README!
+### FROM
+
+FROM should be the first instruction in your dockerfile 
