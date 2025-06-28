@@ -1,6 +1,6 @@
 ### CMD
 
-cmd is the command that runs the container.
+cmd is the command that runs the container. it should run in forground and it should run for infinite times
 
 ### RUN vs CMD
 
